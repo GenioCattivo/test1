@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="CatalogPredefinedItems" version="2.1">
+	<Item id="8d2dca86-e280-44da-bb36-40042703b98d">
+		<Name>Документы</Name>
+		<Code>000000002</Code>
+		<Description>Документы</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="c9dc0ca8-9baf-4eab-a1a9-2e9d3737629c">
+		<Name>Обработки</Name>
+		<Code>000000005</Code>
+		<Description>Обработки</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="ef60e2d4-d846-4c5b-b1bf-5a4b7246c167">
+		<Name>Отечты</Name>
+		<Code>000000004</Code>
+		<Description>Отечты</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="2a8dfd2a-c178-4629-8388-d7bfa9bd0324">
+		<Name>Перечисления</Name>
+		<Code>000000003</Code>
+		<Description>Перечисления</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="69ff3398-160b-4e70-93b2-ccbb862987d7">
+		<Name>Справочники</Name>
+		<Code>000000001</Code>
+		<Description>Справочники</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+</PredefinedData>
