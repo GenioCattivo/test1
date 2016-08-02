@@ -1,15 +1,33 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="CatalogPredefinedItems" version="2.1">
+	<Item id="13dc1fc8-2943-4484-b7b6-e0aaf29b6ac2">
+		<Name>БизнесПроцессы</Name>
+		<Code>000000006</Code>
+		<Description>Бизнес процессы</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
 	<Item id="8d2dca86-e280-44da-bb36-40042703b98d">
 		<Name>Документы</Name>
 		<Code>000000002</Code>
 		<Description>Документы</Description>
 		<IsFolder>false</IsFolder>
 	</Item>
+	<Item id="def1375b-dcb1-4794-819d-f794eafcba0b">
+		<Name>Задачи</Name>
+		<Code>000000007</Code>
+		<Description>Задачи</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
 	<Item id="c9dc0ca8-9baf-4eab-a1a9-2e9d3737629c">
 		<Name>Обработки</Name>
 		<Code>000000005</Code>
 		<Description>Обработки</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="aea7ebac-21a3-4d07-8ec2-af87481bd754">
+		<Name>ОбщиеМодули</Name>
+		<Code>000000008</Code>
+		<Description>Общие модули</Description>
 		<IsFolder>false</IsFolder>
 	</Item>
 	<Item id="ef60e2d4-d846-4c5b-b1bf-5a4b7246c167">
